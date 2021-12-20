@@ -1,4 +1,3 @@
-i = 1
 introv_count = 0
 extrov_count = 0
 
